@@ -7,6 +7,6 @@ Collection of tweaks.
 
         Add display-from-bottom/custom.css to Workspace > Layout > Custom CSS
 
-2. Click on message to open thread (last tested 6.1.2)
+2. Click on message to open thread (last tested 6.1.2) - It has a variable at start that by default is true meaning it will open also for messages with no thread started
 
         Add  click-message-thread/custom-login.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
