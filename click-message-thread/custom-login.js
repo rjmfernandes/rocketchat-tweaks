@@ -1,4 +1,4 @@
-let alsoForNonThreaded = false;
+let alsoForNonThreaded = true;
 let observer = new MutationObserver((mutations) => {
   mutations.forEach((mutation) => {
     let oldValue = mutation.oldValue;
