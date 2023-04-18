@@ -13,7 +13,7 @@ let observer = new MutationObserver((mutations) => {
         ) {
           
           el.addEventListener('click', function () {
-            if (alsoForNonThreaded) {
+            if (alsoForNonThreaded && !el.querySelector('.rcx-box.rcx-box--full.rcx-box--animated.rcx-button--small.rcx-button--primary.rcx-button')) {
               //make the click on message element the same as clicking the reply action on message toolbox
               this.parentElement.querySelector('.rcx-box.rcx-box--full.rcx-message-toolbox__wrapper').children[0].children[0].children[2].click();
             } else {
