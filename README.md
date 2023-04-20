@@ -20,7 +20,7 @@ Collection of tweaks.
 
         Add click-message-thread/custom.css to Workspace > Layout > Custom CSS
 
-5. Presents over the user's status as tip its actual status text and not the stateus precense value. (last tested 6.1.3) It has am intervalSeconds variable at start to configure how long before making any calls to the user info to check its status text has changed. It also depends that you use usernames as labels and not the users real names.
+5. Presents over the user's status as tip its actual status text and not the stateus precense value. (last tested 6.1.3) It has am intervalSeconds variable at start to configure how long before making any calls to the user info to check its status text has changed. It also depends that you use usernames as labels and not the users real names. (This tweak may have huge impact on server as it's so more as a reference example than anything else.)
 
         Add display-user-status/custom.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
 
