@@ -1,7 +1,7 @@
 const maxSeconds = 20;
 const intervalSeconds = 5;
 const firstExecutionSeconds = 2;
-const warning_message = ' 🔺';
+const warning_message = '<div style="float: right;">🔺</div>';
 const consoleDebug = true;
 
 function warningOnChats() {
