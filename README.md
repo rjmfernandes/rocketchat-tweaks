@@ -16,7 +16,7 @@ Collection of tweaks.
 
         Add  omnichannel-alert/custom-login.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
 
-4. Hide usernames from list of suggestion when using @ mentions. (If you configure in Layount to hide usernames and on user preferences, including in default ones under Accounts settings, the list of suggestions when using @ still presents it.)
+4. Hide usernames from list of suggestion when using @ mentions. If you configure in Layount to hide usernames and on user preferences, including in default ones under Accounts settings, the list of suggestions when using @ still presents it, which is the reason for this css tweak. (last tested 6.1.2)
 
         Add click-message-thread/custom.css to Workspace > Layout > Custom CSS
 
