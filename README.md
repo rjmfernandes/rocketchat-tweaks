@@ -13,6 +13,11 @@ Collection of tweaks.
 
 3. Add some warning sign to omnichannel chats innactive for too long (last tested 6.1.2) - It has variables at beginning to control times for periodic execution and initial execution, as well for max time before adding warning, for the warning message itself and for controlling debug on browser console
 
+
         Add  omnichannel-alert/custom-login.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
+
+4. Hide usernames from list of suggestion when using @ mentions. (If you configure in Layount to hide usernames and on user preferences, including in default ones under Accounts settings, the list of suggestions when using @ still presents it.)
+
+        Add click-message-thread/custom.css to Workspace > Layout > Custom CSS
 
 

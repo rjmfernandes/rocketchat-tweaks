@@ -1,0 +1,7 @@
+.rcx-option__content {
+    visibility: hidden;
+}
+
+.rcx-option__content > strong {
+    visibility: visible;
+}
