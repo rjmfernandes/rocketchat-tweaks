@@ -24,4 +24,8 @@ Collection of tweaks.
 
         Add display-user-status/custom.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
 
+6. Automatically clicks the login with oauth button (sso)
+
+        Add click-oauth/custom-logged-out.js to Workspace > Layout > Scripts > Custom Script for Logged Out Users
+
 
