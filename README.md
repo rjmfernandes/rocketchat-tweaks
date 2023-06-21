@@ -31,3 +31,7 @@ Collection of tweaks.
 7. Replace the click on call button for a call to a slash command
 
         Add replace-call-click/custom-login.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
+
+8. How to hide a button on the message editor (example bold button)
+
+       Add hide-bold-button/custom-login.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
