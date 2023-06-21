@@ -28,4 +28,6 @@ Collection of tweaks.
 
         Add click-oauth/custom-logged-out.js to Workspace > Layout > Scripts > Custom Script for Logged Out Users
 
+7. Replace the click on call button for a call to a slash command
 
+        Add replace-call-click/custom-login.js to Workspace > Layout > Scripts > Custom Script for Logged In Users
